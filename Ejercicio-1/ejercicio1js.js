@@ -5,6 +5,6 @@ function buscar_valor(lista, objetivo){
         if(lista[i] == objetivo){
             return i;
         }
-      return -1;
     }
+    return -1;
 }
