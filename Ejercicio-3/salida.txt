@@ -1,0 +1,6 @@
+País : UY 
+Temperatura actual: 8.06°C
+Temperatura máxima: 9.89 °C
+ Temperatura mínima: 8.06°C
+ Descripción del clima: cielo claro
+ 

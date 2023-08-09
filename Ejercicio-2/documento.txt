@@ -1,0 +1,72 @@
+Capital: Buenos Aires
+País: AR
+Característica del clima: cielo claro
+Sensación térmica: 9.7°C 
+Presión: 1026 hPA
+Humedad: 78% 
+Temperatura máxima: 12.86 °C 
+Temperatura mínima: 4.94; 
+
+Capital: La Paz
+País: BO
+Característica del clima: algo de nubes
+Sensación térmica: 8.04°C 
+Presión: 1040 hPA
+Humedad: 85% 
+Temperatura máxima: 8.04 °C 
+Temperatura mínima: 6.5; 
+
+Capital: Brasilia
+País: BR
+Característica del clima: cielo claro
+Sensación térmica: 16.79°C 
+Presión: 1022 hPA
+Humedad: 45% 
+Temperatura máxima: 17.78 °C 
+Temperatura mínima: 17.78; 
+
+Capital: Santiago
+País: CL
+Característica del clima: nubes
+Sensación térmica: 14.37°C 
+Presión: 1000 hPA
+Humedad: 67% 
+Temperatura máxima: 17.23 °C 
+Temperatura mínima: 9.18; 
+
+Capital: Bogotá
+País: CO
+Característica del clima: muy nuboso
+Sensación térmica: 13.19°C 
+Presión: 1031 hPA
+Humedad: 67% 
+Temperatura máxima: 13.99 °C 
+Temperatura mínima: 13.99; 
+
+Capital: San José
+País: CR
+Característica del clima: cielo claro
+Sensación térmica: 18.25°C 
+Presión: 1019 hPA
+Humedad: 81% 
+Temperatura máxima: 18.43 °C 
+Temperatura mínima: 17.34; 
+
+Capital: La Habana
+País: CU
+Característica del clima: nubes dispersas
+Sensación térmica: 34.35°C 
+Presión: 1016 hPA
+Humedad: 80% 
+Temperatura máxima: 28.86 °C 
+Temperatura mínima: 28.86; 
+
+Capital: Santo Domingo
+País: DO
+Característica del clima: algo de nubes
+Sensación térmica: 26.6°C 
+Presión: 1015 hPA
+Humedad: 88% 
+Temperatura máxima: 27.75 °C 
+Temperatura mínima: 24.75; 
+
